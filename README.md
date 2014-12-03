@@ -13,6 +13,11 @@ Almost 800 icons - [live preview here](http://google.github.io/material-design-i
 2. Move the icons from the unzipped `icons` folder to your asset folder (created in step 1).
 3. After you restart Balsamiq, the icons will be available under 'Account Assets' when you want to select an icon in the Icon Library. They are also searchable through their official Font Awesome names.
 
+## Pick Icon
+Icons have the same name as in [live preview](http://google.github.io/material-design-icons/) with "material" prefix. So when you want to list all icons from "content" category - type "material content":
+![](http://i.imgur.com/AOIIT3X.png)
+![](http://i.imgur.com/6kkIOFV.png)
+
 ## Components
 TBA
 
