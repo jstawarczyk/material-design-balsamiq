@@ -11,7 +11,7 @@ Almost 800 icons - [live preview here](http://google.github.io/material-design-i
 	* On Mac OS X, create a folder called `Balsamiq Mockups` inside your `Documents` folder. Inside the new `Balsamiq Mockups` folder, create a new folder called `assets`.
 1. [Download the pack](https://github.com/jstawarczyk/material-design-balsamiq/releases) and unzip the files.
 2. Move the icons from the unzipped `icons` folder to your asset folder (created in step 1).
-3. After you restart Balsamiq, the icons will be available under 'Account Assets' when you want to select an icon in the Icon Library. They are also searchable through their official Font Awesome names.
+3. After you restart Balsamiq, the icons will be available under 'Account Assets' when you want to select an icon in the Icon Library. They are also searchable through their official Material Design names.
 
 ## Pick Icon
 Icons have the same name as in [live preview](http://google.github.io/material-design-icons/) with "material" prefix. So when you want to list all icons from "content" category - type "material content":
