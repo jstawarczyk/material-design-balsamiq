@@ -2,7 +2,7 @@ Material Design Balsamiq
 ========================
 
 [Material Design](http://www.google.com/design/spec/material-design/) [icons](https://github.com/google/material-design-icons) and components for [Balsamiq](Balsamiq Mockups).
-
+Almost 800 icons - [live preview here](http://google.github.io/material-design-icons/).
 ![](http://i.imgur.com/3CyI7e5.png)
 
 ## Icons Installation
